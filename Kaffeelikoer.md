@@ -1,9 +1,13 @@
 # Kaffeelikör
 
-*   *35 g* Kaffeebohnen
-*   *360 g* Kandis
-*   *2 pkg* Vanillezucker
-*   *2 Flaschen* Doppelkorn
+*vegan, vegetarian, liqueur*
+
+---
+
+- *35 g* Kaffeebohnen
+- *360 g* Kandis
+- *2 pkg* Vanillezucker
+- *2 Flaschen* Doppelkorn
 
 ---
 

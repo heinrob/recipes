@@ -1,16 +1,21 @@
 # Omas Rosinenstuten
 
-Zutaten für *1 großen* Rosinenstuten:
-
-*   *2 Stücke* Hefe
-*   *1,5 kg* Mehl
-*   *250 g* Rosinen
-*   Salz
-*   *250 g* Margarine
-*   *0,5 l* Milch
-*   *2,5 EL* Zucker
-
 Backzeit: *45 -- 60* Minuten bei *175º*
+
+*vegan, vegetarian, sweet, pastry*
+
+---
+
+## Zutaten für *1 großen* Rosinenstuten:
+
+-   *2 Stücke* Hefe
+-   *1,5 kg* Mehl
+-   *250 g* Rosinen
+-   Salz
+-   *250 g* Margarine
+-   *0,5 l* Milch / Hafermilch
+-   *2,5 EL* Zucker
+
 
 ---
 

@@ -1,6 +1,12 @@
 # Omas Haferflockenplätzchen
 
-Zutaten:
+Backzeit: *14* Minuten bei *175º* Ober- und Unterhitze
+
+*vegetarian, cookies*
+
+---
+
+## Zutaten:
 
 *   *1 kg* Haferflocken
 *   *600 g* Margarine
@@ -11,8 +17,6 @@ Zutaten:
 *   *1,5 fl* Bittermandelöl
 *   *2 pck* gehackte Mandeln
 *   etwas Salz
-
-Backzeit: *14* Minuten bei *175º* Ober- und Unterhitze
 
 ---
 

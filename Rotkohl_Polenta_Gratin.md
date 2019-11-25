@@ -1,25 +1,29 @@
 # Rotkohl-Polenta-Gratin
 
-Zutaten für *4* Portionen:
-
-*   *200 g* Polenta
-*   *200 ml* Gemüsebrühe
-*   *2* kleine Zwiebeln
-*   *2* Eier
-*   *80 g* Magerquark
-*   Salz
-*   Pfeffer, frisch gemahlen
-*   *1 kg* Rotkohl
-*   *1* kleiner säuerlicher Apfel
-*   *1 EL* Butterschmalz
-*   *1 Prise* Nelkenpulver
-*   *100 g* Edelpilzkäse
-*   *100 g* Sahne
-*   *100 ml* Milch
-*   Muskatnuss, frisch gerieben
-*   Fett für die Form
-
 Zubereitungszeit: *1* Stunde
+
+
+*vegetarian*
+**4 Portionen**
+
+---
+
+- *200 g* Polenta
+- *200 ml* Gemüsebrühe
+- *2* kleine Zwiebeln
+- *2* Eier
+- *80 g* Magerquark
+- Salz
+- Pfeffer, frisch gemahlen
+- *1 kg* Rotkohl
+- *1* kleiner säuerlicher Apfel
+- *1 EL* Butterschmalz
+- *1 Prise* Nelkenpulver
+- *100 g* Edelpilzkäse
+- *100 g* Sahne
+- *100 ml* Milch
+- Muskatnuss, frisch gerieben
+- Fett für die Form
 
 ---
 

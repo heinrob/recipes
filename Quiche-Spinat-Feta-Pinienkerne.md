@@ -1,27 +1,31 @@
 # Spinat-Feta Quiche mit Pinienkernen
 
+## Zeit:
+- 180°C
+- 30 Minuten Gehzeit
+- 10 Minuten + 30 Minuten
+- = 70 Minuten
+
+*vegetarian*
+
+---
+
 ## Für den Teig:
-* *200 g* Mehl
-* *50 g* kalte Butter
-* *50 g* Margarine (oder insg 100g kalte Butter)
-* *1* Ei
-* Salz
+- *200 g* Mehl
+- *50 g* kalte Butter
+- *50 g* Margarine (oder insg 100g kalte Butter)
+- *1* Ei
+- Salz
 
 ## Für den Belag:
-* *400 g* TK Spinat
-* *1* große Zwiebel
-* *2*     kleine Knoblauchzehen
-* *150 g*  Feta
-* *50 g*   Passierte Tomaten
-* *2*     Eier
-* Salz / Pfeffer / Muskat
-* *2 EL*  Pinienkerne
-
-## Zeit:
- * 180°C
- * 30 Minuten Gehzeit
- * 10 Minuten + 30 Minuten
- * = 70 Minuten
+- *400 g* TK Spinat
+- *1* große Zwiebel
+- *2*     kleine Knoblauchzehen
+- *150 g*  Feta
+- *50 g*   Passierte Tomaten
+- *2*     Eier
+- Salz / Pfeffer / Muskat
+- *2 EL*  Pinienkerne
 
 ---
 
