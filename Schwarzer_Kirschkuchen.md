@@ -1,7 +1,8 @@
 # Schwarzer Kirschkuchen
 
 Backzeit: *60* Minuten bei *180° - 200°* Umluft
-Tip: Den Kuchen ca. 3 Tage vor Verzehr backen
+
+Tipp: Den Kuchen ca. 3 Tage vor Verzehr backen
 
 *vegetarian, sweet, baking*
 
@@ -16,9 +17,7 @@ Tip: Den Kuchen ca. 3 Tage vor Verzehr backen
 - *125 g* gemahlene Mandeln
 - *100 g* gehackte Schokolade
 - *1 TL* Zimt
-
 - *4* Eiweiß
-
 - *1 Glas* entsteinte Sauerkirschen
 
 ## Guss

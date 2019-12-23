@@ -1,5 +1,7 @@
 # Kaffeelikör
 
+<img src="./Kaffeelikoer.jpg">
+
 *vegan, vegetarian, liqueur*
 
 ---
