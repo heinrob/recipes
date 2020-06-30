@@ -34,7 +34,9 @@
 - sesame oil
 - ginger powder
 
-- steaming insert for the cooking pot
+## Equipment
+
+- steaming basket for the cooking pot
 
 ---
 
@@ -46,8 +48,8 @@
 6. Chop cabbage and green onions.
 7. Deglaze the tofu and carrots with wine and add the other liquid ingredients. Add vegetable stock, MSG, soy flour and spices to taste. The goal is a thicker consistency.
 8. Punch down the risen dough and roll it into a long roll. Cut into 12 to 15 pieces and lay down the pieces on the freshly cut sides. Then spread the outer regions with the fingers so a small bump stays in the center. Fill with about 2 tsp of filling and fold the rim, twisting in the end to shut.
-9. Put about 4 baozi at a time in the steamer basket, leave enough space as these bad bois will rise. Put in a pot with boiling water, steaming 12 minutes.
+9. Put about 4 baozi at a time in the steamer basket, leave enough space as these bad boys will rise. Put in a pot with boiling water, steaming 12 minutes.
 
 Source: 
-- Dough from [Joshua Weissman](https://www.youtube.com/watch?v=8vtK56zVnD4)
+- Dough by [Joshua Weissman](https://www.youtube.com/watch?v=8vtK56zVnD4)
 - Filling inspired by [Babish](https://www.bingingwithbabish.com/recipes/baobuns)
