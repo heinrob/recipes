@@ -4,7 +4,7 @@
 
 *asian, vegan, vegetarian*
 
-**4 Servings**
+**2 Servings**
 
 ---
 
