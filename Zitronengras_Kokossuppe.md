@@ -25,7 +25,7 @@
 
 ---
 
-1. Koriandersamen, Senfkörner und Kardamom auf kleiner Hitze leicht rösten.
+1. Koriandersamen, Senfkörner und geschälten Kardamom auf kleiner Hitze leicht rösten.
 2. Ingwer schälen und in feine Streifen schneiden, Knoblauch schälen und grob hacken, mit der Rückseite eines großen Küchenmessers ein paar mal auf das Zitronengras schlagen.
 3. Ingwer, Knoblauch, Zitronengras und Gemüsebrühe in den Topf dazugeben und köcheln lassen.
 4. Schale der Limette abreiben und zusammen mit dem Saft und der Kokosmilch dazugeben.

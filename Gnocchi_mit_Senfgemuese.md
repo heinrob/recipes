@@ -12,7 +12,7 @@
 - *3 EL* vegane Butter
 - *3 EL* flüssiger Honig oder Ahornsirup
 - *200 ml* Gemüsebrühe
-- *3 TL* mit telscharfer Senf 
+- *3 TL* mittelscharfer Senf
 - *200 g* vegane Sahne
 - *1-2 EL* Zitronensaft
 - *500 g* Gnocchi
