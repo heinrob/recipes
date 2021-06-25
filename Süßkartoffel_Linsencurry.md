@@ -1,4 +1,4 @@
-# Zitronengras Kokossuppe
+# Gebackene Süßkartoffel im Linsencurry
 
 ![gebackene süßkartoffel auf linsencurry](pics/Süßkartoffel_Linsencurry.jpg)
 
