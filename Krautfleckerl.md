@@ -21,6 +21,8 @@
 - Salz
 - Öl
 
+---
+
 1. Weißkohl putzen, je nach Größe vierteln oder achteln, waschen, abtropfen lassen und Strunk entfernen. Viertel oder Achtel quer in ca. 1.5 cm breite Streifen schneiden. Zwiebeln und Knoblauch schälen und fein würfeln. Öl in großem Topf erhitzen und Zwiebeln und Knoblauch darin ca. 2 Minuten bei mittlerer Hitze anschwitzen. Kohl zugeben und ca. 5 Minuten bei hoher Hitze mitbraten. Mit Essig und Brühe ablöschen, aufkochen und alles im geschlossenen Topf unter gelegentlichem Rühren ca. 12-15 Minuten bei niedriger Hitze köcheln lassen. Tomaten abtropfen lassen, grob hacken, ca. 2 Minuten vor Ende der Garzeit des Weißkohls zugeben und mitköcheln lassen.
 
 2. Tofuhack nach [Anleitung](https://github.com/tstehr/recipes/blob/master/Kruemelig_gebratener_Tofu.md) zubereiten.
