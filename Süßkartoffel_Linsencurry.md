@@ -23,7 +23,7 @@
 - *2 TL* Currypulver
 - *200 g* TK-Erbsen
 
-Außerdem:
+### Außerdem:
 
 - 1 tiefes Backblech (oder große Auflaufform)
 - Fett fürs Backblech
