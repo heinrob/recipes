@@ -32,3 +32,5 @@
 5. Mit geräuchertem Paprikapulver, Salz und Pfeffer abschmecken.
 6. Zucchini in Scheiben schneiden, würzen und in der Pfanne anbraten.
 7. Die Suppe zusammen mit Zucchini und Frikadellen in tiefen Schüsseln anrichten, dazu Ciabatta servieren.
+
+Quelle: [Cris](https://github.com/crisartistry/recipes)
