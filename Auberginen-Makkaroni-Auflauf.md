@@ -26,7 +26,7 @@
 - Chilipulver
 - schwarzer Pfeffer
 - *1.5 EL* Zitronensaft
-- *200 g* [Feta](https://raw.githubusercontent.com/dasnessie/recipes/master/fetabasis.md)
+- *200 g* [Feta](../dasnessie/fetabasis.md)
 - *1 EL* Mandelmus
 
 ## Gurken-Minze-Dip

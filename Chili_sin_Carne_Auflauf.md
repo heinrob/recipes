@@ -19,7 +19,7 @@
 - *0.5 TL* gemahlener Kreuzkümmel
 - *1 TL* getrockneter Oregano
 - *1 Prise* Chilipulver
-- *150 g* [veganer Mozarellaschmelz](https://raw.githubusercontent.com/dasnessie/recipes/master/mozzarellaschmelz.md) oder Edamer
+- *150 g* [veganer Mozarellaschmelz](../dasnessie/mozzarellaschmelz.md) oder Edamer
 - *100 g* Tortilla-Chips, z. B. mit Chili-Geschmack
 - dazu Reis servieren
 

@@ -20,7 +20,7 @@
 - Gemüsebrühe
 - Paprikapulver, geräuchert
 - *1* Zucchini
-- [Frikadellen](https://raw.githubusercontent.com/p3tr0sh/recipes/master/Frikadellen.md)
+- [Frikadellen](./Frikadellen.md)
 - Ciabatta
 
 ---
