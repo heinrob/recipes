@@ -1,13 +1,13 @@
 name: Trigger Frontend Deploy
-    on:
-    push:
-        branches:
+on:
+push:
+    branches:
         - master
         - main
-    jobs:
-    dispatch:
-        runs-on: ubuntu-latest
-        steps:
+jobs:
+dispatch:
+    runs-on: ubuntu-latest
+    steps:
         - name: Send repository_dispatch event to Frontend-Repo
             uses: peter-evans/repository-dispatch@v3
             with:
