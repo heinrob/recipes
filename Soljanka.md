@@ -1,6 +1,6 @@
 # Soljanka
 
-![Vegane Soljanka von Zuckerjagdwurst](https://assets.zuckerjagdwurst.com/ubnidod81loy0u5f73g8x7rjjokd/2220/1402/55/true/center/R858-Vegane-Soljanka-33.webp)
+![Vegane Soljanka von Zuckerjagdwurst](https://assets-edge.zuckerjagdwurst.com/img/ubnidod81loy0u5f73g8x7rjjokd?w=444&h=280&q=55&fit=crop&fm=webp&crop=center&animated=false)
 
 *vegan, vegetarian, easy, preserved, soup*
 

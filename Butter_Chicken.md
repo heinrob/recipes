@@ -1,6 +1,6 @@
 # Veganes Butter Chicken
 
-![Veganes Butter Chicken von Zuckerjagdwurst](https://assets.zuckerjagdwurst.com/eex9drz7cq5a967moq1xptcddz8o/2220/1402/55/true/center/butterchicken-30.webp)
+![Veganes Butter Chicken von Zuckerjagdwurst](https://assets-edge.zuckerjagdwurst.com/img/muv50obbq2oigln0wwlic613m2ht?w=444&h=280&q=55&fit=crop&fm=webp&crop=center&animated=false)
 
 *vegan, vegetarian, indian*
 

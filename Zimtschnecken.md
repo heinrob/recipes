@@ -1,7 +1,6 @@
 # Zimtschnecken
 
-![Zimtschnecken von Zuckerjagdwurst](https://assets.zuckerjagdwurst.com/1kyvyan1hio8flm93m7gdj5biao3/2220/1402/55/true/center/R201_Vegane_Zimtschnecken-18.webp)
-
+![Zimtschnecken von Zuckerjagdwurst](https://assets-edge.zuckerjagdwurst.com/img/1kyvyan1hio8flm93m7gdj5biao3?w=444&h=280&q=55&fit=crop&fm=webp&crop=center&animated=false)
 Backzeit: *30-40 Minuten* bei *180°C (Umluft)*
 
 **12 Schnecken**
