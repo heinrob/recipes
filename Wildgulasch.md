@@ -1,7 +1,11 @@
 # Veganes Wildgulasch
 
-*vegan, umami*
-**4 Portionen**
+Zu diesem Gulasch passen hervorragend [Rotkohl](https://github.com/haeckse/recipes/blob/main/apfel_rotkohl.md) und eine Kartoffelbeilage, zum Beispiel Gratin oder Knödel.
+Die Hauptzutat in dem verwendeten Wildgulaschgewürz ist Wachholder, der dem Gericht den unvergleichlichen und namensgebenden Geschmack verleiht.
+
+*vegan, umami, winter, comfort*
+
+**6 Portionen**
 
 ---
 
@@ -19,9 +23,10 @@
 - *4 EL* Öl
 - *4* Schalotten
 - *2* Knoblauchzehe
-- *2* rote Paprika
+- *175 g* Karotten
+- *175 g* Pastinaken
 - *4 EL* Tomatenmark
-- *3 EL* Wildgulaschgewürz
+- *10 g* Wildgulaschgewürz
 - Salz
 - Pfeffer
 - *2 EL* Mehl
@@ -32,10 +37,10 @@
 
 ---
 
-1. Sojaschnetzel zunächst 10-12 Minuten in heißem Wasser einweichen. Währenddessen das Gemüse klein schneiden.
+1. Sojaschnetzel zunächst 10-12 Minuten in heißem Wasser einweichen. Währenddessen das Gemüse in feine Würfel schneiden.
 2. Das Wasser abgießen, die Flüssigkeit aus den Schnetzeln drücken und trocken tupfen.
 3. Alle Zutaten für die Marinade verrühren und mit den Schnetzeln vermengen. 15 Minuten stehen lassen.
-4. Öl in einer Pfanne erhitzen und die marinierten Schnetzel 10 Minuten anbraten. Schalotten, Knoblauch und Paprika hinzugeben und weitere 5 Minuten anbraten.
+4. Öl in einer Pfanne erhitzen und die marinierten Schnetzel 10 Minuten anbraten. Schalotten, Knoblauch, Karotten und Pastinaken hinzugeben und weitere 5 Minuten anbraten.
 5. Tomatenmark und Gewürze hinzugeben und kurz anrösten.
 6. Mit Mehl bestäuben, gut verrühren und mit Rotwein ablöschen. Dann Brühe, Sojasoße und Senf hinzugeben und umrühren.
 7. Etwa 20 bis 30 Minuten leicht köcheln lassen.
